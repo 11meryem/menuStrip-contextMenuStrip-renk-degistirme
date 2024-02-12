@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.57\button.57\button.57\bin\Debug\button.57.exe.config
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.57\button.57\button.57\bin\Debug\button.57.exe
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.57\button.57\button.57\bin\Debug\button.57.pdb
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.57\button.57\button.57\obj\Debug\button.57.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.57\button.57\button.57\obj\Debug\button.57.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.57\button.57\button.57\obj\Debug\button._57.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.57\button.57\button.57\obj\Debug\button._57.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.57\button.57\button.57\obj\Debug\button.57.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.57\button.57\button.57\obj\Debug\button.57.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.57\button.57\button.57\obj\Debug\button.57.exe
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.57\button.57\button.57\obj\Debug\button.57.pdb
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.57\button.57\button.57\obj\Debug\button._57.KitapEkle.resources
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.57\button.57\button.57\obj\Debug\button._57.KitapTeslim.resources
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.57\button.57\button.57\obj\Debug\button._57.OgrenciEkle.resources
